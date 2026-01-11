@@ -60,4 +60,4 @@ Este repositorio se ha limpiado para incluir solo los archivos esenciales para r
 2.  **Para Ver Resultados**: Ejecuta `generar_graficas`. Generará las tablas de datos y las figuras comparativas listas para publicación.
 
 ---
-*Trabajo de Máster Robótica y AUtomática (UC3M), asignatura Ingeniería de Control*
+*Trabajo de Máster Robótica y Automática (UC3M), asignatura Control Inteligente*
