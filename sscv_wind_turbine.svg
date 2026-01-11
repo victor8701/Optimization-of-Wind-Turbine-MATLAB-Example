@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xml:space="preserve"
+   width="1024px"
+   height="1024px"
+   shape-rendering="geometricPrecision"
+   text-rendering="geometricPrecision"
+   image-rendering="optimizeQuality"
+   fill-rule="nonzero"
+   clip-rule="evenodd"
+   viewBox="0 0 10240 10240"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname="wind_engine.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+   id="metadata15"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>wind_engine icon</dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs13" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1440"
+   inkscape:window-height="832"
+   id="namedview11"
+   showgrid="false"
+   inkscape:zoom="0.23046875"
+   inkscape:cx="315.56797"
+   inkscape:cy="512"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg9" />
+	<title
+   id="title2">wind_engine icon</title>
+	<desc
+   id="desc4">wind_engine icon from the IconExperience.com O-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+	
+	
+	
+<g
+   id="g4543"><g
+     transform="translate(-10066.441,43.38983)"
+     id="g4532"><path
+       style="fill:#2ee21a;fill-opacity:1"
+       inkscape:connector-curvature="0"
+       id="curve2"
+       d="m 3200,9280 h 3840 v 640 H 3200 Z" /><path
+       style="fill:#808080"
+       inkscape:connector-curvature="0"
+       id="curve1"
+       d="m 5531,5398 229,3562 H 4480 l 240,-3718 143,-157 c 83,19 169,28 257,28 18,0 36,0 53,-1 z" /><path
+       style="fill:#808080"
+       inkscape:connector-curvature="0"
+       id="curve0"
+       d="m 5573,3707 c 133,134 200,318 185,506 240,27 483,49 724,75 95,11 167,43 228,104 240,240 993,1511 1444,2360 57,107 6,267 -118,373 -125,106 -281,123 -365,38 L 5286,4778 c -181,49 -376,15 -531,-92 -144,194 -284,394 -427,589 -57,78 -121,123 -204,146 -328,88 -1805,104 -2766,70 -121,-4 -234,-128 -264,-288 -30,-161 34,-305 150,-336 l 3258,-873 c 49,-183 177,-333 345,-413 -96,-222 -199,-443 -297,-665 -38,-87 -46,-166 -24,-249 88,-328 813,-1615 1322,-2430 64,-103 228,-140 382,-85 154,55 246,182 216,297 z m -453,133 c -177,0 -320,143 -320,320 0,177 143,320 320,320 177,0 320,-143 320,-320 0,-177 -143,-320 -320,-320 z" /></g><rect
+     y="-650.84747"
+     x="-10196.61"
+     height="11498.306"
+     width="9719.3223"
+     id="rect4534"
+     style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:37.79527664;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" /></g><ellipse
+   style="opacity:1;fill:#f0a51f;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+   id="path822"
+   cx="-4953.2207"
+   cy="4209.7554"
+   rx="312.54346"
+   ry="295.17987" /></svg>
